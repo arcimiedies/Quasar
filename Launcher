@@ -55,7 +55,7 @@ body {
 <script>
 async function launchGame() {
 
-   const url = "https://raw.githubusercontent.com/arcimiedies/Quasar/refs/heads/main/Index";
+   const url = "https://raw.githubusercontent.com/arcimiedies/Quasar/refs/heads/main/index.html";
 
    try {
       const res = await fetch(url);
@@ -85,5 +85,3 @@ async function launchGame() {
 
 </body>
 </html>
-
-
