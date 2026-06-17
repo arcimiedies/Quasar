@@ -43,7 +43,7 @@
       color: white;
       border: 1px solid white;
       border-radius: 10px;
-      background-color: #BFd4af37;
+      background-color: #BF23D5D5;
       margin: 8px 0;
       padding: 5px 10px;
     }
