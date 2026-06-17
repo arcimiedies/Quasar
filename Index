@@ -68,7 +68,7 @@
 <body>
 <h1 style= ”color:#fff;”> Quasar: Lux </h1>
 <h3> Games Launcher </h3>
-<p> Human made, built from the ground up for a proper experience</p>
+<p>100% Human made, built from the ground up for a proper experience</p>
   <div class="gallery" id="gallery"></div>
 
   <script>
