@@ -12,7 +12,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
-      background-image: url('https://t3.ftcdn.net/jpg/06/57/87/96/360_F_657879643_IPq8qL0Dgz6n4IzzPzI8K1grEi8KgLY1.jpg');
+      background-image: url('https://img.magnific.com/free-vector/dark-hexagonal-background-with-gradient-color_79603-1410.jpg');
     }
     .gallery {
       display: flex;
@@ -25,6 +25,8 @@
       border: 1px solid white;
       border-radius: 10px;
       color: black;
+      margin:auto; 
+      display:block;
       padding: 20px;
       width: 220px;
       text-align: center;
