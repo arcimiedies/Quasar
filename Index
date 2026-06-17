@@ -91,7 +91,7 @@
       { name: "Balatro", game: "Rougelike Joker Poker", url: "https://raw.githubusercontent.com/9kwngxqj4q-stack/Balatro/refs/heads/main/balatro.html", ui: "card" },
       { name: "N-GON", game: "Sci Fi Sidescroller", url: "https://raw.githubusercontent.com/denduednue/n-gon/refs/heads/master/index%20copy.html", ui: "card" },
       { name: "Slime Ranchers", game: "Slime Rancher", url: "https://raw.githubusercontent.com/denduednue/ranch/refs/heads/main/index%20copy.html", ui: "card" },
-      { name: "Sandboxels", game: "Falling Sand Game", url: "https://raw.githubusercontent.com/R74nCom/sandboxels/refs/heads/main/index.html", ui: "card" },
+      { name: "Sandboxels", game: "Falling Sand Sandbox", url: "https://raw.githubusercontent.com/denduednue/ugs-singlefile/refs/heads/main/sandbox.html", ui: "card" }
       { name: "Atlas", game: "Alternative Launcher, made by Max Z and Tavira", url: "https://raw.githubusercontent.com/CorduroyBrick49/Atlas/refs/heads/main/index.html", ui: "card" },
       { name: "Space Company", game: "Text Based Incremental Game", url: "https://raw.githubusercontent.com/arcimiedies/nothing-to-see-here/refs/heads/main/clspacecompany.html", ui: "card" },
       { name: "Drive Mad", game: "Car game", url: "https://raw.githubusercontent.com/arcimiedies/nothing-to-see-here/refs/heads/main/dirve-mud.html", ui: "card" }
