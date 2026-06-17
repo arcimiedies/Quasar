@@ -12,7 +12,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
-      background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4gg-be1f2697-69ac-4569-9c34-ac77393df366.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kY2UzNjQ3Yi02MTc5LTQ2M2MtYjRjOC1iZDY0MmY1YmIyMTYvZGE0ZjRnZy1iZTFmMjY5Ny02OWFjLTQ1NjktOWMzNC1hYzc3MzkzZGYzNjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JvdoUIxeOkMWG0ppCNpkS-ae5ZPOA8vP50CEME0-cRo');
+      background-image: url('https://t3.ftcdn.net/jpg/06/57/87/96/360_F_657879643_IPq8qL0Dgz6n4IzzPzI8K1grEi8KgLY1.jpg');
     }
     .gallery {
       display: flex;
@@ -24,11 +24,13 @@
     .card {
       border: 1px solid white;
       border-radius: 10px;
+      color: black;
       padding: 20px;
       width: 220px;
       text-align: center;
-      background-color: #66195589;
+      background-color: #ffffff;
       box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+      opacity: 0.5;
       display: flex;
       flex-direction: column;
       align-items: center;
@@ -40,22 +42,24 @@
     .card select {
       font-size: 1em;
       font-family: orbit;
-      color: white;
+      opacity: 0.5;
+      color: #EFBF04;
       border: 1px solid white;
       border-radius: 10px;
-      background-color: #BF23D5D5;
+      background-color: black;
       margin: 8px 0;
       padding: 5px 10px;
     }
     .card button {
-      background-color: #99fffff;
-      color: white;
+      background-color: black;
+      opacity: 0.5;
+      color: #EFBF04;
       border: none;
       border-radius: 3px;
       cursor: pointer;
     }
     .card button:hover {
-      background-color: #BFfffff;
+      background-color: #fffff;
     }
     label {
       display: block;
