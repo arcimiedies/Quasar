@@ -12,7 +12,7 @@
   background-repeat: no-repeat;
   background-attachment: fixed; 
   background-size: 100% 100%;
-      background-image: url('https://img.magnific.com/free-photo/background-golden-particle-dust-powder_1017-32800.jpg?semt=ais_hybrid&w=740&q=80');
+      background-image: url('https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/dce3647b-6179-463c-b4c8-bd642f5bb216/da4f4gg-be1f2697-69ac-4569-9c34-ac77393df366.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kY2UzNjQ3Yi02MTc5LTQ2M2MtYjRjOC1iZDY0MmY1YmIyMTYvZGE0ZjRnZy1iZTFmMjY5Ny02OWFjLTQ1NjktOWMzNC1hYzc3MzkzZGYzNjYucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.JvdoUIxeOkMWG0ppCNpkS-ae5ZPOA8vP50CEME0-cRo');
     }
     .gallery {
       display: flex;
@@ -22,7 +22,7 @@
       justify-content: flex-start;
     }
     .card {
-      border: 1px solid #d4af37;
+      border: 1px solid white;
       border-radius: 10px;
       padding: 20px;
       width: 220px;
@@ -41,21 +41,21 @@
       font-size: 1em;
       font-family: orbit;
       color: white;
-      border: 1px solid #d4af37;
+      border: 1px solid white;
       border-radius: 10px;
       background-color: #BFd4af37;
       margin: 8px 0;
       padding: 5px 10px;
     }
     .card button {
-      background-color: #99d4af37;
+      background-color: #99fffff;
       color: white;
       border: none;
       border-radius: 3px;
       cursor: pointer;
     }
     .card button:hover {
-      background-color: #BFd4af37;
+      background-color: #BFfffff;
     }
     label {
       display: block;
